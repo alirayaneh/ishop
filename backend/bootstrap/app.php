@@ -15,7 +15,8 @@ return Application::configure(basePath: dirname(__DIR__))
         // $middleware->append(\Illuminate\Http\Middleware\HandleCors::class);
         $middleware->alias([
             'scope' => \App\Http\Middleware\CheckForAllScopes::class,
-            'social' => \App\Http\Middleware\SocialMiddleware::class
+            'social' => \App\Http\Middleware\SocialMiddleware::class,
+            'telegram.ingestion' => \App\Http\Middleware\VerifyTelegramIngestionSignature::class,
         ]);
 
     })

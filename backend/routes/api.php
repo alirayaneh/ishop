@@ -61,6 +61,7 @@ use App\Http\Controllers\ProductImageAttributesController;
 use App\Http\Controllers\PosSettingsController;
 use App\Http\Controllers\PosOrdersController;
 use App\Http\Controllers\PluginsController;
+use App\Http\Controllers\Internal\TelegramProductController;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\View;
@@ -824,4 +825,10 @@ Route::group([
             Route::delete('delete', [UsersController::class, "deleteUser"]);
         });
     });
+});
+
+Route::prefix('internal/telegram')->middleware('telegram.ingestion')->group(function () {
+    Route::post('products/upsert', [TelegramProductController::class, 'upsert']);
+    Route::post('products/update-from-post', [TelegramProductController::class, 'updateFromPost']);
+    Route::post('products/mark-unavailable', [TelegramProductController::class, 'markUnavailable']);
 });
