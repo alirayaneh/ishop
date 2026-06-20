@@ -1,0 +1,512 @@
+{
+  "accountLayout": {
+    "myProfile": "پروفایل من",
+    "myAddressBook": "دفترچه آدرس من",
+    "vouchers": "کوپن‌ها",
+    "myOrders": "سفارش‌های من",
+    "myWishlist": "لیست علاقه‌مندی‌های من",
+    "comparedList": "لیست مقایسه"
+  },
+  "trackOrder": {
+    "estimatedDelivery": "زمان تحویل تخمینی",
+    "estimated": "تخمینی",
+    "enterCode": "کد رهگیری سفارش خود را وارد کنید",
+    "trackOrder": "پیگیری سفارش",
+    "orderStatus": "وضعیت سفارش",
+    "haveAnOrder": "سفارشی دارید؟ می‌خواهید بدانید سفارش شما اکنون کجاست؟",
+    "knowProgress": "از روند تحویل محصول خود مطلع شوید."
+  },
+  "addressPopup": {
+    "country": "کشور",
+    "order": "سفارش",
+    "state": "استان",
+    "email": "ایمیل",
+    "name": "نام",
+    "address": "نشانی",
+    "city": "شهر",
+    "zipCode": "کد پستی",
+    "isRequired": "{type} الزامی است",
+    "phone": "تلفن",
+    "cancel": "لغو",
+    "update": "بروزرسانی",
+    "thisAddress": "{type} این نشانی",
+    "saving": "در حال ذخیره",
+    "save": "ذخیره",
+    "message": "پیام",
+    "addressPlaceholder": "نشانی خیابان یا صندوق پستی",
+    "address2Placeholder": "آپارتمان، سوئیت، واحد، ساختمان، طبقه و غیره.",
+    "subject": "موضوع"
+  },
+  "ajaxButton": {
+    "gettingResponse": "دریافت پاسخ",
+    "submit": "ارسال"
+  },
+  "cartProductTile": {
+    "bundleOffer": "پیشنهاد بسته‌ای",
+    "fromPickupPlace": "از محل تحویل",
+    "noShipMessage": "این محصول به {state} {country} قابل ارسال نیست. لطفا ابتدا محصول را لغو انتخاب کنید یا نشانی حمل و نقل را تغییر دهید.",
+    "deleteAlert": "آیا واقعاً می‌خواهید حذف کنید؟",
+    "fromLocation": "از مکان"
+  },
+  "categoryListingLayout": {
+    "noItemFound": "موردی یافت نشد."
+  },
+  "checkoutRight": {
+    "subtotalItems": "جمع جزء ({itemCount} قلم)",
+    "shipping": "حمل و نقل",
+    "total": "مجموع",
+    "proceedToCheckout": "ادامه فرآیند پرداخت",
+    "voucher": "کوپن",
+    "submitting": "در حال ارسال"
+  },
+  "contact": {
+    "errorOccurred": "خطای زیر رخ داد",
+    "email": "ایمیل",
+    "name": "نام",
+    "your": "{type} شما",
+    "invalidEmail": "ایمیل نامعتبر",
+    "success": "موفقیت",
+    "successMessage": "پیام شما را دریافت کردیم. در اسرع وقت با شما تماس خواهیم گرفت.",
+    "goToHome": "برو به صفحه اصلی",
+    "now": "اکنون",
+    "contactUs": "دوست دارم از شما بشنوم",
+    "feelFree": "با خیال راحت با ما تماس بگیرید. در سریع‌ترین زمان ممکن پاسخ خواهیم داد."
+  },
+  "detailRight": {
+    "details": "جزییات",
+    "shippingFeeDetails": "جزییات هزینه حمل و نقل",
+    "transactionIsSecured": "تراکنش امن است",
+    "price": "قیمت",
+    "shippingFee": "هزینه حمل و نقل",
+    "quantity": "تعداد",
+    "adding": "در حال اضافه کردن",
+    "addToCart": "افزودن به سبد خرید",
+    "secureTransaction": "تراکنش امن",
+    "secureTransactionMsg": "ما سخت کار می‌کنیم تا امنیت و حریم خصوصی شما را حفظ کنیم. سیستم امنیت پرداخت ما اطلاعات شما را در حین انتقال رمزگذاری می‌کند. ما جزییات کارت اعتباری شما را با فروشندگان خارجی به اشتراک نمی‌گذاریم.",
+    "arrives": "می‌رسد",
+    "addingToWishlist": "در حال افزودن به لیست علاقه‌مندی‌ها",
+    "removingFromWishlist": "در حال حذف از لیست علاقه‌مندی‌ها",
+    "addToWishlist": "افزودن به لیست علاقه‌مندی‌ها",
+    "removeFromWishlist": "حذف از لیست علاقه‌مندی‌ها",
+    "outOfStock": "این محصول در انبار موجود نیست.",
+    "requiredAttributes": "لطفا همه ویژگی‌های الزامی را انتخاب کنید.",
+    "exceedsInventory": "تعداد محصول از موجودی انبار بیشتر است",
+    "buyNow": "همین الان بخر",
+    "off": "{amount} درصد تخفیف",
+    "noReview": "هنوز نظری وجود ندارد"
+  },
+  "discover": {
+    "dailyDiscover": "کشف روزانه",
+    "showMore": "نمایش بیشتر"
+  },
+  "dropdown": {
+    "choose": "انتخاب کنید"
+  },
+  "featured": {
+    "featured": "محصولات ویژه",
+    "sold": "فروخته شده",
+    "showAll": "نمایش همه"
+  },
+  "listingLayout": {
+    "sortBy": "مرتب‌سازی بر اساس",
+    "for": "برای",
+    "close": "بستن",
+    "paginationResult": "نمایش {from} تا {to} از {total} نتیجه",
+    "allProducts": "همه محصولات",
+    "price": "قیمت",
+    "anyPrice": "هر قیمتی",
+    "go": "برو",
+    "priceLowToHigh": "قیمت از کم به زیاد",
+    "priceHighToLow": "قیمت از زیاد به کم",
+    "avgCustomerReview": "میانگین نظرات مشتریان",
+    "clear": "پاک کردن",
+    "up": "بالا",
+    "max": "حداکثر",
+    "min": "حداقل",
+    "collections": "مجموعه‌ها",
+    "shippingOptions": "گزینه‌های حمل و نقل",
+    "brands": "برندها",
+    "noProductFound": "محصولی یافت نشد.",
+    "showingResult": "نمایش نتیجه",
+    "customerReviews": "نظرات مشتریان",
+    "loading": "در حال بارگذاری",
+    "filter": "فیلتر"
+  },
+  "orderCancelPopup": {
+    "cancelOrder": "لغو سفارش",
+    "title": "عنوان",
+    "titleSmall": "عنوان",
+    "SendMessage": "ارسال پیام"
+  },
+  "orderTabbing": {
+    "cancelled": "لغو شده",
+    "cardPayment": "پرداخت با کارت",
+    "paid": "پرداخت شده",
+    "unPaid": "پرداخت نشده",
+    "cod": "پرداخت در محل"
+  },
+  "payButton": {
+    "placedSuccess": "سفارش شما با موفقیت ثبت شد."
+  },
+  "productImage": {
+    "rollOver": "برای بزرگنمایی روی تصویر بروید",
+    "extendedView": "برای نمایش گسترده روی تصویر کلیک کنید"
+  },
+  "productReview": {
+    "customerReviews": "نظرات مشتریان",
+    "reviews": "{count} نظر",
+    "outOf": "از ۵",
+    "star": "{count} ستاره",
+    "peopleReviewed": "{count} نفر این محصول را بررسی کرده‌اند"
+  },
+  "productDynamic": {
+    "pageOf": "صفحه {current} از {total}",
+    "extendedView": "برای نمایش گسترده روی تصویر کلیک کنید"
+  },
+  "quantityNav": {
+    "maximumExceeds": "حداکثر مقدار مجاز surpassed می‌شود",
+    "min": "باید حداقل یک آیتم داشته باشید."
+  },
+  "ratePopup": {
+    "addImage": "افزودن تصویر",
+    "rateNow": "امتیاز دادن الآن",
+    "uploadingError": "خطایی در آپلود برخی تصاویر رخ داد.",
+    "supportedImage": "فرمت‌های پشتیبانی شده: jpg, png (حداکثر حجم: {max} کیلوبایت)"
+  },
+  "searchPopup": {
+    "suggestedSearch": "کلمات کلیدی جستجوی پیشنهادی",
+    "products": "محصولات",
+    "nothingFound": "هیچ نتیجه‌ای برای",
+    "categories": "دسته‌بندی‌ها"
+  },
+  "socialShare": {
+    "share": "اشتراک‌گذاری",
+    "facebook": "فیس‌بوک",
+    "twitter": "توییتر",
+    "pinterest": "پینترست"
+  },
+  "stripePayment": {
+    "bestDeal": "بهترین معامله را دریافت کنید",
+    "creditDebit": "کارت اعتباری یا بدهی",
+    "creditExpiry": "تاریخ انقضای کارت اعتباری",
+    "creditCvc": "CVC",
+    "placing": "در حال ثبت",
+    "pay": "پرداخت مبلغ {amount}"
+  },
+  "suggestedProducts": {
+    "recommendedForYou": "پیشنهاد شده برای شما",
+    "alsoViewed": "کسانی که این آیتم را مشاهده کرده‌اند، همچنین مشاهده کرده‌اند"
+  },
+  "toastMessage": {
+    "error": "خطا"
+  },
+  "userAddress": {
+    "noAddress": "هیچ آدرسی یافت نشد.",
+    "deleting": "در حال حذف",
+    "delete": "حذف",
+    "edit": "ویرایش"
+  },
+  "vouchers": {
+    "noVoucher": "هیچ کوپنی یافت نشد.",
+    "minSpend": "حداقل هزینه",
+    "valid": "معتبر"
+  },
+  "footer": {
+    "siteLogo": "لوگو سایت",
+    "services": "خدمات",
+    "about": "درباره ما",
+    "social": "شبکه‌های اجتماعی",
+    "allRights": "تمام حقوق محفوظ است",
+    "payment": "پرداخت"
+  },
+  "store": {
+    "avgRating": "میانگین امتیاز محصولات فروشنده است",
+    "noData": "فروشگاهی یافت نشد.",
+    "memberSince": "عضو از",
+    "visitStore": "بازدید از فروشگاه",
+    "follow": "دنبال کردن",
+    "following": "در حال دنبال",
+    "unFollowing": "لغو دنبال کردن",
+    "followingStores": "فروشگاه‌های دنبال شده"
+  },
+  "header": {
+    "searchHere": "اینجا جستجو کنید",
+    "trackOrder": "پیگیری سفارش",
+    "account": "حساب من",
+    "login": "ورود",
+    "register": "ثبت‌نام",
+    "profile": "پروفایل",
+    "orders": "سفارش‌ها",
+    "vouchers": "کوپن‌ها",
+    "logout": "خروج",
+    "cart": "سبد خرید",
+    "checkout": "تسویه حساب",
+    "shipping": "ارسال",
+    "categories": "دسته‌بندی‌ها",
+    "brands": "برندها",
+    "hotDeals": "پیشنهادات ویژه",
+    "wishList": "لیست علاقه‌مندی‌ها",
+    "comparedList": "لیست مقایسه"
+  },
+  "empty": {
+    "welcome": "{name} خوش آمدید به",
+    "or": "یا",
+    "loginFacebook": "ورود با فیس‌بوک",
+    "loginGoogle": "ورود با گوگل",
+    "agreement": "با ادامه، شما موافقت می‌کنید با",
+    "privacyPolicy": "سیاست حفظ حریم خصوصی"
+  },
+  "error": {
+    "sorry": "متأسفیم",
+    "try": "سعی کنید",
+    "reload": "بارگذاری مجدد",
+    "or": "یا",
+    "goHome": "برو به صفحه اصلی"
+  },
+  "ratingStar": {
+    "outOf": "{rating} از ۵"
+  },
+  "product": {
+    "home": "صفحه اصلی",
+    "rating": "امتیاز",
+    "endsIn": "پایان در",
+    "bundleDeal": "پیشنهاد گروهی",
+    "brand": "برند",
+    "readLess": "کمتر بخوان",
+    "readMore": "بیشتر بخوان",
+    "authentic": "۱۰۰% اصل",
+    "refundWarranty": "بازپرداخت و گارانتی",
+    "compare": "مقایسه",
+    "removeCompare": "حذف از مقایسه",
+    "shocking": "فروش شوک‌انگیز"
+  },
+  "order": {
+    "orderCancelled": "این سفارش لغو شده",
+    "orderRefunded": "هزینه‌ی این سفارش برگشت داده شده",
+    "order": "سفارش",
+    "orderMethod": "روش سفارش",
+    "orderDate": "تاریخ ثبت سفارش",
+    "orderAmount": "مبلغ سفارش",
+    "paymentStatus": "وضعیت پرداخت",
+    "image": "تصویر",
+    "cancellationMessage": "مشاهده پیام لغو",
+    "cancelOrder": "لغو این سفارش",
+    "subtotal": "جمع جزئی",
+    "shippingCost": "هزینه ارسال",
+    "shipTo": "ارسال به",
+    "deliveryFee": "هزینه تحویل",
+    "deliveryStatus": "وضعیت تحویل"
+  },
+  "addresses": {
+    "addAddress": "افزودن آدرس جدید",
+    "try": "امتحان کن سرچ کنی یا",
+    "goHome": "برو به صفحه اصلی"
+  },
+  "orders": {
+    "noOrderYet": "هنوز سفارشی ثبت نکردی.",
+    "manageOrder": "مدیریت سفارش",
+    "shippingStatus": "وضعیت ارسال",
+    "loggedWith": "وارد شدی با",
+    "updateProfile": "ویرایش پروفایل",
+    "qty": "تعداد"
+  },
+  "profile": {
+    "password": "رمز عبور",
+    "updatePassword": "بروزرسانی رمز",
+    "retypePassword": "تکرار رمز عبور",
+    "currentPassword": "رمز فعلی",
+    "confirmPassword": "تایید رمز",
+    "yourCurrentPassword": "رمز فعلی‌ت",
+    "newPassword": "رمز جدید",
+    "invalidLength": "طول رمز معتبر نیست",
+    "noMatch": "رمزها یکی نیست",
+    "google": "گوگل",
+    "facebook": "فیس‌بوک",
+    "updatingPassword": "در حال آپدیت رمز"
+  },
+  "wishlist": {
+    "noWishlist": "محصولی در لیست علاقه‌مندی‌ها پیدا نشد."
+  },
+  "compared": {
+    "noData": "محصولی برای مقایسه پیدا نشد."
+  },
+  "cart": {
+    "shoppingCart": "سبد خرید",
+    "selectItems": "انتخاب همه آیتم‌ها",
+    "deselectItems": "لغو انتخاب همه",
+    "subtotal": "جمع ({items} آیتم)",
+    "noSelected": "هیچ آیتمی انتخاب نشده",
+    "tax": "مالیات",
+    "productAdded": "محصول با موفقیت به سبد اضافه شد"
+  },
+  "checkout": {
+    "selectPayment": "انتخاب روش پرداخت",
+    "apply": "اعمال",
+    "applying": "در حال اعمال...",
+    "payNow": "پرداخت کن",
+    "voucherCode": "کد",
+    "confirmOrderAnd": "تایید سفارش و پرداخت الان ({amount})",
+    "confirmOrder": "تایید سفارش",
+    "noPayment": "فعلاً هیچ روش پرداختی فعال نیست"
+  },
+  "forgotPassword": {
+    "errorOccurred": "خطای زیر رخ داده:",
+    "sentEmail": "یک ایمیل شامل کد برات فرستادیم. کد رو وارد کن تا بتونی رمزتو عوض کنی.",
+    "code": "کد",
+    "signIn": "ورود",
+    "youCan": "می‌تونی",
+    "verified": "حساب‌ت با موفقیت تایید شد.",
+    "congratulations": "تبریک!",
+    "createAccount": "ساخت حساب",
+    "noAccount": "حساب نداری؟",
+    "registering": "در حال ثبت‌نام...",
+    "codeFrom": "کدی که ایمیل شده"
+  },
+  "login": {
+    "password": "رمز عبور",
+    "loggingIn": "در حال ورود...",
+    "forgotPassword": "فراموشی رمز"
+  },
+  "razorpayCallback": {
+    "wait": "لطفاً صبر کن..."
+  },
+  "register": {
+    "haveAccount": "حساب داری؟",
+    "sentEmail": "یک ایمیل حاوی کد تایید برات فرستاده شده. لطفاً کد رو اینجا وارد کن."
+  },
+  "shipping": {
+    "instruction": "راهنمای تحویل",
+    "ordered": "محصولات سفارش‌داده‌شده",
+    "addAddress": "اول باید آدرس اضافه کنی.",
+    "unableShipped": "امکان ارسال این محصول وجود نداره.",
+    "noProductSelected": "محصولی انتخاب نکردی، لطفاً اول یه محصول انتخاب کن.",
+    "proceed": "ادامه جهت پرداخت",
+    "shippingOption": "انتخاب گزینه ارسال"
+  },
+  "productHelper": {
+    "refundable": "قابل بازگشت",
+    "notRefundable": "غیرقابل بازگشت",
+    "mindChange": "تغییر نظر شاملش نمیشه",
+    "available": "گارانتی موجوده",
+    "notAvailable": "بدون گارانتی"
+  },
+  "util": {
+    "location": "موقعیت",
+    "pickup": "تحویل حضوری",
+    "pending": "در انتظار",
+    "confirmed": "تایید شده",
+    "pickedUp": "تحویل گرفته شده",
+    "onWay": "در حال ارسال",
+    "delivered": "تحویل شده",
+    "creditDebit": "کارت اعتباری/دبیت",
+    "paypal": "پی‌پل",
+    "stripe": "استرایپ",
+    "flutterwave": "فلاترویو",
+    "razorpay": "ریزورپی"
+  },
+  "home": {
+    "mail": "ایمیل",
+    "helpline": "پشتیبانی",
+    "shortPeriod": "در مدت زمان کوتاه",
+    "subscribeNewsletter": "عضویت در خبرنامه",
+    "getLatestEmail": "آخرین آپدیت‌ها رو ایمیلی دریافت کن",
+    "subscribe": "عضویت",
+    "subscribeSuccessMsg": "با موفقیت در خبرنامه عضو شدی.",
+    "secureTransaction": "پرداخت امن",
+    "off": "{percent}% تخفیف"
+  },
+  "detail": {
+    "inStock": "موجود",
+    "outOfStock": "ناموجود"
+  },
+  "sitemap": {
+    "find": "محصول مناسب خودت رو پیدا کن",
+    "stock": "خرید از صدها محصول موجود"
+  },
+  "payment": {
+    "paypal": "پرداخت با پی‌پل",
+    "flutterwave": "پرداخت با فلاترویو",
+    "stripe": "پرداخت با استرایپ",
+    "razorpay": "پرداخت با ریزورپی",
+    "bestDeal": "بهترین قیمت رو بگیر"
+  },
+  "filter": {
+    "hideAll": "بستن همه",
+    "shop": "کوپن فروشگاه",
+    "rating": "امتیاز و نظرات",
+    "copied": "کپی شد",
+    "copy": "کپی",
+    "ckout": "تسویه‌حساب",
+    "address": "آدرس کاربر",
+    "iyzicoPayment": "پرداخت آی‌زیکو",
+    "payIyzico": "پرداخت با آی‌زیکو",
+    "placed": "ثبت شده در {date}",
+    "featured": "ویژه {title}",
+    "success": "موفق",
+    "addSucc": "آدرس {msg} با موفقیت ثبت شد!"
+  },
+  "date": {
+    "sat": "شنبه",
+    "sun": "یکشنبه",
+    "mon": "دوشنبه",
+    "tue": "سه‌شنبه",
+    "wed": "چهارشنبه",
+    "thu": "پنجشنبه",
+    "fri": "جمعه",
+    "jan": "ژانویه",
+    "feb": "فوریه",
+    "mar": "مارس",
+    "apr": "آوریل",
+    "may": "می",
+    "jun": "ژوئن",
+    "jul": "جولای",
+    "aug": "آگوست",
+    "sep": "سپتامبر",
+    "oct": "اکتبر",
+    "nov": "نوامبر",
+    "dec": "دسامبر",
+    "ddddMMMD": "{day}، {mon} {date}",
+    "MMMDDYYYY": "{mon} {date}، {year}",
+    "da": "حذف حساب",
+    "addr": "آدرس‌ها",
+    "gb": "بازگشت",
+    "bav": "فروشنده شو",
+    "nf": "این صفحه پیدا نشد",
+    "sn": "نام فروشگاه",
+    "bt": "واریز بانکی",
+    "pv": "تایید پرداخت",
+    "vp": "بررسی پرداخت",
+    "ti": "شناسه تراکنش",
+    "bn": "نام بانک",
+    "ahn": "نام صاحب حساب",
+    "an": "شماره حساب",
+    "brn": "نام شعبه",
+    "kr": "لطفاً مبلغ رو مستقیم به اطلاعات بانکی زیر واریز کن و شناسه تراکنش رو برای تأیید ارسال کن.",
+    "pds": "اطلاعات پرداخت با موفقیت ارسال شد",
+    "cb": "این وب‌سایت برای بهبود تجربه شما از کوکی استفاده می‌کنه.",
+    "gi": "باشه",
+    "fi": "تصویر شاخص",
+    "dad": "آدرس تحویل",
+    "os": "خلاصه سفارش",
+    "ptp": "رفتن به مرحله پرداخت",
+    "ttl": "مجموع مبلغی که در این سفارش صرفه‌جویی کردی",
+    "pa": "آدرس تحویل حضوری",
+    "tl": "تلفن",
+    "reg": "همین حالا تو چند مرحله ساده ثبت‌نام کن!",
+    "sr": "ثبت‌نام فروشنده",
+    "pm": "لطفاً فرم رو با اطلاعات صحیح پر کن، در غیر این‌صورت حسابت ممکنه مسدود یا تعلیق بشه.",
+    "yw": "بعد از تایید حساب، ایمیل دریافت می‌کنی.",
+    "gh": "بازگشت به خانه",
+    "offer": "تخفیف {amount}%"
+  },
+  "invent": {
+    "fs": "ارسال رایگان",
+    "fre": "رایگان",
+    "pf": "پی‌فست",
+    "pc": "پرداخت لغو شد",
+    "pv": "امکان تایید پرداخت نیست",
+    "in": "شماره نامعتبره",
+    "sww": "یه مشکلی پیش اومد",
+    "si": "اسلایدر تصویر"
+  }
+}
